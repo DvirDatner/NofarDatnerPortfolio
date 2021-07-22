@@ -9,7 +9,6 @@
 
 namespace NofarDatnerPortfolio {
     
-    
     public partial class Graphics {
         
         /// <summary>
